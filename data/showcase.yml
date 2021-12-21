@@ -65,7 +65,10 @@
 
 - name: Developer Muslim
   domain: devmuslim.id
-
+  
+- name: Devlogor
+  domain: devlogor.vercel.app
+  
 - name: by DiPtra
   domain: blog.diptra.id
 
